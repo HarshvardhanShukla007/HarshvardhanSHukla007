@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan U. Shukla</h1>
 <h3 align="center">A passionate Ai-Ml Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshvardhanshukla007" alt="harshvardhanshukla007" /></a> </p>
+
 
 - 🌱 I’m currently learning **Ai-Ml enginnering and python frameworks**
 
